@@ -3,7 +3,7 @@
 ![](/Hello%20World!%20I’m%20alexundev-4.gif)
 
 
-# <center>Hey, I'm Alex! 🖐🏻</center> 
+# <p align="center"> Hey, I'm Alex 🖐🏻</p>
 
 - 🔭 I’m currently working on being a Mobile Developer focusing on iOS
 - 🌱 I’m currently learning Swift
@@ -15,7 +15,7 @@
 
 
 
-<h1> <center> Languages </center><br><br>
+<h1> <p align="center"> Languages </p><br><br>
 
 <p align = "center"> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  width = 50px/>
