@@ -5,11 +5,13 @@
 
 # <p align="center"> Hey, I'm Alex 🖐🏻</p>
 
-- 🔭 I’m currently working on being a Mobile Developer focusing on iOS
-- 🌱 I’m currently learning Swift
-- 💬 Ask me about anything! 
-- 📫 How to reach me: alexundev@icloud.com
-- 😄 Pronouns: He/him
+- I’m currently working on being a NOC Analyst
+- I’m currently learning about Computer Network
+- Ask me about anything! 
+- How to reach me: alexundev@icloud.com
+- Fell free to contact me!
+
+   
 --------
 
 
